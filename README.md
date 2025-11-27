@@ -27,9 +27,4 @@ Use C or AC to clear the display
 Optional: DEL to remove the last character
 If keyboard support is implemented: type numbers and operators directly
 
----
-## .
-├── index.html
-├── style.css
-├── script.js
 
