@@ -15,9 +15,10 @@ A simple browser-based calculator built with **HTML**, **CSS**, and **JavaScript
 ---
 
 ## 🧱 Tech Stack
-HTML5 – structure
-CSS3 – layout & styling
-JavaScript – logic and event handling
+
+- HTML5 – structure
+- CSS3 – layout & styling
+- JavaScript – logic and event handling
 
 ---
 ## 🕹️ Usage
